@@ -1,0 +1,14 @@
+(lp0
+S'eiffel'
+p1
+aS'louvre'
+p2
+aS'defense'
+p3
+aS'moulinrouge'
+p4
+aS'pantheon'
+p5
+aS'sacrecoeur'
+p6
+a.
